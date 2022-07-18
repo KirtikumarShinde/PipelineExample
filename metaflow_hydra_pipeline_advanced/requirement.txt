@@ -1,0 +1,4 @@
+hydra-core==1.1.0
+metaflow==2.6.0
+pandas
+pyspark

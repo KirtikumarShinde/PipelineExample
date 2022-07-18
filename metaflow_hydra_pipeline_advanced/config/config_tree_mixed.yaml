@@ -1,0 +1,5 @@
+defaults:
+  # Parameters - all yaml files under the folder `parameters` should be listed here.
+  - parameters:
+      - model_params
+      - paths_2
